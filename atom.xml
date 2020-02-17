@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0w0nmz.coding-pages.com/"/>
-  <updated>2020-02-17T07:49:12.218Z</updated>
+  <updated>2020-02-17T10:13:29.615Z</updated>
   <id>http://0w0nmz.coding-pages.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>多线程 - 副本</title>
+    <link href="http://0w0nmz.coding-pages.com/posts/5729df21.html"/>
+    <id>http://0w0nmz.coding-pages.com/posts/5729df21.html</id>
+    <published>2020-02-17T10:13:15.202Z</published>
+    <updated>2020-02-17T10:13:29.615Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;多线程（英语：multithreading），是指从软件或者硬件上实现多个线程并发执行的技术。具有多线程能力的计算机因有硬件支持而能够在同一时间执行多于一个线程，进而提升整体处理性能。具有这种能力的系统包括对称多处理机、多核心处理器以及芯片级多处理（Chip-level multithreading）或同时多线程（Simultaneous multithreading）处理器。在一个程序中，这些独立运行的程序片段叫作“线程”（Thread），利用它编程的概念就叫作“多线程处理（Multithreading）”。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="多线程" scheme="http://0w0nmz.coding-pages.com/categories/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+    
+      <category term="线程" scheme="http://0w0nmz.coding-pages.com/tags/%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="并发" scheme="http://0w0nmz.coding-pages.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
   
   <entry>
     <title>多线程</title>
