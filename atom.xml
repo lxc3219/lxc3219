@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>随风</title>
-  <icon>http://0w0nmz.coding-pages.com/icon.png</icon>
+  <icon>www.aiakos.cn/icon.png</icon>
   <subtitle>随风的小窝</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://0w0nmz.coding-pages.com/"/>
-  <updated>2020-02-17T07:49:12.235Z</updated>
-  <id>http://0w0nmz.coding-pages.com/</id>
+  <link href="www.aiakos.cn/"/>
+  <updated>2020-02-21T08:12:17.287Z</updated>
+  <id>www.aiakos.cn/</id>
   
   <author>
     <name>随风</name>
@@ -17,9 +17,66 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Tag Plugin</title>
+    <link href="www.aiakos.cn/posts/52fec89c.html"/>
+    <id>www.aiakos.cn/posts/52fec89c.html</id>
+    <published>2020-02-21T07:58:50.000Z</published>
+    <updated>2020-02-21T08:12:17.287Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;世间所有的相遇，都是久别重逢&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;note default&quot;&gt;
+            &lt;p&gt;default 提示块标签&lt;/p&gt;
+    
+        
+      
+    
+    </summary>
+    
+    
+      <category term="插件" scheme="www.aiakos.cn/categories/%E6%8F%92%E4%BB%B6/"/>
+    
+    
+      <category term="plugin" scheme="www.aiakos.cn/tags/plugin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多线程</title>
+    <link href="www.aiakos.cn/posts/5729df21.html"/>
+    <id>www.aiakos.cn/posts/5729df21.html</id>
+    <published>2020-02-21T07:48:18.000Z</published>
+    <updated>2020-02-21T07:58:57.162Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;多线程（英语：multithreading），是指从软件或者硬件上实现多个线程并发执行的技术。具有多线程能力的计算机因有硬件支持而能够在同一时间执行多于一个线程，进而提升整体处理性能。具有这种能力的系统包括对称多处理机、多核心处理器以及芯片级多处理（Chip-level multithreading）或同时多线程（Simultaneous multithreading）处理器。在一个程序中，这些独立运行的程序片段叫作“线程”（Thread），利用它编程的概念就叫作“多线程处理（Multithreading）”。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="多线程" scheme="www.aiakos.cn/categories/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="并发" scheme="www.aiakos.cn/categories/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E5%B9%B6%E5%8F%91/"/>
+    
+    
+      <category term="多线程" scheme="www.aiakos.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="并发" scheme="www.aiakos.cn/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://0w0nmz.coding-pages.com/posts/4a17b156.html"/>
-    <id>http://0w0nmz.coding-pages.com/posts/4a17b156.html</id>
+    <link href="www.aiakos.cn/posts/4a17b156.html"/>
+    <id>www.aiakos.cn/posts/4a17b156.html</id>
     <published>2020-02-15T11:52:04.239Z</published>
     <updated>2020-02-17T07:49:12.235Z</updated>
     
