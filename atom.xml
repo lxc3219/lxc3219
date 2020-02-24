@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aiakos.cn/"/>
-  <updated>2020-02-24T13:00:06.962Z</updated>
+  <updated>2020-02-24T13:08:50.957Z</updated>
   <id>https://aiakos.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aiakos.cn/archives/b2845630.html"/>
     <id>https://aiakos.cn/archives/b2845630.html</id>
     <published>2020-02-24T12:54:08.000Z</published>
-    <updated>2020-02-24T13:00:06.962Z</updated>
+    <updated>2020-02-24T13:08:50.957Z</updated>
     
     <summary type="html">
     
@@ -29,16 +29,14 @@
       
         
         
-          &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、现象问题&quot;&gt;&lt;a href=&quot;#一、现象问题&quot; class=&quot;headerlink&quot;
+          &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、现象问题&quot;&gt;&lt;a href=&quot;#一、现象问题&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
-      <category term="faq" scheme="https://aiakos.cn/categories/faq/"/>
-    
-      <category term="elasticsearch" scheme="https://aiakos.cn/categories/faq/elasticsearch/"/>
+      <category term="elasticsearch" scheme="https://aiakos.cn/categories/elasticsearch/"/>
     
     
       <category term="elasticsearch" scheme="https://aiakos.cn/tags/elasticsearch/"/>
@@ -52,7 +50,7 @@
     <link href="https://aiakos.cn/archives/2656779.html"/>
     <id>https://aiakos.cn/archives/2656779.html</id>
     <published>2020-02-24T12:47:30.000Z</published>
-    <updated>2020-02-24T12:52:47.823Z</updated>
+    <updated>2020-02-24T13:08:57.484Z</updated>
     
     <summary type="html">
     
@@ -60,7 +58,7 @@
       
         
         
-          &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、查询审计配置情况&quot;&gt;&lt;a href=&quot;#一、查询审计配置情况&quot; class=&quot;headerlink&quot;
+          &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、查询审计配置情况&quot;&gt;&lt;a href=&quot;#一、查询审计配置情况&quot; class=&quot;headerlink&quot;
         
       
     
@@ -79,7 +77,7 @@
     <link href="https://aiakos.cn/archives/c5372dcb.html"/>
     <id>https://aiakos.cn/archives/c5372dcb.html</id>
     <published>2020-02-24T12:44:20.000Z</published>
-    <updated>2020-02-24T12:48:47.597Z</updated>
+    <updated>2020-02-24T13:08:34.310Z</updated>
     
     <summary type="html">
     
@@ -87,7 +85,7 @@
       
         
         
-          &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、文件压缩的中文乱码问题&quot;&gt;&lt;a href=&quot;#一、文件压缩的中文乱码问题&quot; class=&quot;headerlink&quot;
+          &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、文件压缩的中文乱码问题&quot;&gt;&lt;a href=&quot;#一、文件压缩的中文乱码问题&quot; class=&quot;headerlink&quot;
         
       
     
@@ -95,8 +93,6 @@
     
     
       <category term="java" scheme="https://aiakos.cn/categories/java/"/>
-    
-      <category term="工具类" scheme="https://aiakos.cn/categories/java/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
     
     
       <category term="文件压缩" scheme="https://aiakos.cn/tags/%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9/"/>
@@ -110,18 +106,16 @@
     <link href="https://aiakos.cn/archives/23592fef.html"/>
     <id>https://aiakos.cn/archives/23592fef.html</id>
     <published>2020-02-24T12:34:41.000Z</published>
-    <updated>2020-02-24T12:42:54.696Z</updated>
+    <updated>2020-02-24T13:09:00.209Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;MySQL 服务启动失败：starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;MySQL 服务启动失败：starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
     
     </summary>
     
     
-      <category term="faq" scheme="https://aiakos.cn/categories/faq/"/>
-    
-      <category term="mysql" scheme="https://aiakos.cn/categories/faq/mysql/"/>
+      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
     
     
       <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
@@ -135,11 +129,11 @@
     <link href="https://aiakos.cn/archives/d901f37d.html"/>
     <id>https://aiakos.cn/archives/d901f37d.html</id>
     <published>2020-02-24T12:21:55.000Z</published>
-    <updated>2020-02-24T12:49:25.988Z</updated>
+    <updated>2020-02-24T13:08:44.003Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用restTemplate转发表单数据和上传文件，之前都是将表单数据json传到后台进行序列化，这样一来代码就显得十分不美观，后来发现使用&lt;strong&gt;&lt;em&gt;@RequestPart&lt;/em&gt;&lt;/strong&gt;注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用restTemplate转发表单数据和上传文件，之前都是将表单数据json传到后台进行序列化，这样一来代码就显得十分不美观，后来发现使用&lt;strong&gt;&lt;em&gt;@RequestPart&lt;/em&gt;&lt;/strong&gt;注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
     
     </summary>
     
@@ -158,18 +152,16 @@
     <link href="https://aiakos.cn/archives/409fb0bb.html"/>
     <id>https://aiakos.cn/archives/409fb0bb.html</id>
     <published>2020-02-24T11:27:46.000Z</published>
-    <updated>2020-02-24T12:19:16.324Z</updated>
+    <updated>2020-02-24T13:08:46.141Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
     
       <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
-    
-      <category term="install" scheme="https://aiakos.cn/categories/mysql/install/"/>
     
     
       <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
@@ -185,18 +177,16 @@
     <link href="https://aiakos.cn/archives/c121720d.html"/>
     <id>https://aiakos.cn/archives/c121720d.html</id>
     <published>2020-02-24T06:46:01.000Z</published>
-    <updated>2020-02-24T12:12:45.501Z</updated>
+    <updated>2020-02-24T13:08:48.453Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
     
       <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
-    
-      <category term="install" scheme="https://aiakos.cn/categories/mysql/install/"/>
     
     
       <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
@@ -212,7 +202,7 @@
     <link href="https://aiakos.cn/archives/4a17b156.html"/>
     <id>https://aiakos.cn/archives/4a17b156.html</id>
     <published>2020-02-15T11:52:04.239Z</published>
-    <updated>2020-02-24T12:15:56.790Z</updated>
+    <updated>2020-02-24T13:08:53.121Z</updated>
     
     <summary type="html">
     
@@ -220,7 +210,7 @@
       
         
         
-          &lt;!-- build time:Mon Feb 24 2020 21:02:01 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Feb 24 2020 21:09:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
