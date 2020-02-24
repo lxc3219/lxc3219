@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aiakos.cn/"/>
-  <updated>2020-02-23T07:32:52.606Z</updated>
+  <updated>2020-02-24T10:32:59.415Z</updated>
   <id>https://aiakos.cn/</id>
   
   <author>
@@ -17,6 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Centos 6.5下安装MySQL 5.7.11（TAR方式）</title>
+    <link href="https://aiakos.cn/archives/undefined.html"/>
+    <id>https://aiakos.cn/archives/undefined.html</id>
+    <published>2020-02-24T06:46:01.000Z</published>
+    <updated>2020-02-24T10:32:59.415Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Feb 24 2020 18:35:32 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Centos6-5下安装MySQL5-7-11&quot;&gt;&lt;a href=&quot;#Centos6-5下安装MySQL5-7-11&quot; class=&quot;headerlink&quot; title=&quot;Centos6.5下安装MySQL5.7.11&quot;&gt;&lt;/a&gt;Centos6.5下安装MySQL5.7.11&lt;/h1&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
+    
+      <category term="install" scheme="https://aiakos.cn/categories/mysql/install/"/>
+    
+    
+      <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
+    
+      <category term="centos" scheme="https://aiakos.cn/tags/centos/"/>
+    
+      <category term="install" scheme="https://aiakos.cn/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://aiakos.cn/archives/4a17b156.html"/>
     <id>https://aiakos.cn/archives/4a17b156.html</id>
@@ -25,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Feb 23 2020 18:41:21 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 18:35:32 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
