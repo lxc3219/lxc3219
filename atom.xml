@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aiakos.cn/"/>
-  <updated>2020-02-24T12:19:16.324Z</updated>
+  <updated>2020-02-24T12:30:11.613Z</updated>
   <id>https://aiakos.cn/</id>
   
   <author>
@@ -17,6 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用@RequestPart同时接收表单数据和MultipartFile数据</title>
+    <link href="https://aiakos.cn/archives/d901f37d.html"/>
+    <id>https://aiakos.cn/archives/d901f37d.html</id>
+    <published>2020-02-24T12:21:55.000Z</published>
+    <updated>2020-02-24T12:30:11.613Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Feb 24 2020 20:30:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用restTemplate转发表单数据和上传文件，之前都是将表单数据json传到后台进行序列化，这样一来代码就显得十分不美观，后来发现使用&lt;strong&gt;&lt;em&gt;@RequestPart&lt;/em&gt;&lt;/strong&gt;注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="spring" scheme="https://aiakos.cn/categories/spring/"/>
+    
+      <category term="faq" scheme="https://aiakos.cn/categories/spring/faq/"/>
+    
+    
+      <category term="restTemplate" scheme="https://aiakos.cn/tags/restTemplate/"/>
+    
+      <category term="spring" scheme="https://aiakos.cn/tags/spring/"/>
+    
+      <category term="faq" scheme="https://aiakos.cn/tags/faq/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Centos6.5 下安装 MySQL5.7.14-RPM方式</title>
     <link href="https://aiakos.cn/archives/409fb0bb.html"/>
     <id>https://aiakos.cn/archives/409fb0bb.html</id>
@@ -25,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 20:19:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 20:30:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -52,7 +79,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Feb 24 2020 20:13:34 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Feb 24 2020 20:30:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -83,7 +110,7 @@
       
         
         
-          &lt;!-- build time:Mon Feb 24 2020 20:17:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Feb 24 2020 20:30:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
