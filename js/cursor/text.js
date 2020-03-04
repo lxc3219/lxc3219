@@ -4,7 +4,7 @@ jQuery(document).ready(function($) {
     var a = new Array("喜欢我", "不喜欢我");
     var $i = $("<span>").text(a[a_idx]);
     var x = e.pageX,
-      y = e.pageY;
+        y = e.pageY;
     $i.css({
       "z-index": 99999,
       "top": y - 28,
