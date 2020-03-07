@@ -13,5 +13,5 @@ Disallow: /fonts/
 Disallow: /lib/
 Disallow: /fancybox/
 
-Sitemap: https://aiakos.cn/sitemap.xml
-Sitemap: https://aiakos.cn/baidusitemap.xml
+Sitemap: https://www.aiakos.cn/sitemap.xml
+Sitemap: https://www.aiakos.cn/baidusitemap.xml
