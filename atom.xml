@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>随风</title>
-  <icon>https://aiakos.cn/icon.png</icon>
+  <icon>https://www.aiakos.cn/icon.png</icon>
   <subtitle>随风的小窝</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://aiakos.cn/"/>
+  <link href="https://www.aiakos.cn/"/>
   <updated>2020-03-06T05:35:04.701Z</updated>
-  <id>https://aiakos.cn/</id>
+  <id>https://www.aiakos.cn/</id>
   
   <author>
     <name>随风</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>短</title>
-    <link href="https://aiakos.cn/archives/d5256b7.html"/>
-    <id>https://aiakos.cn/archives/d5256b7.html</id>
+    <link href="https://www.aiakos.cn/archives/d5256b7.html"/>
+    <id>https://www.aiakos.cn/archives/d5256b7.html</id>
     <published>2020-03-06T05:19:24.000Z</published>
     <updated>2020-03-06T05:35:04.701Z</updated>
     
@@ -29,208 +29,208 @@
       
         
         
-          &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
+          &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
         
       
     
     </summary>
     
     
-      <category term="短文学" scheme="https://aiakos.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.aiakos.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
     
-      <category term="短文学" scheme="https://aiakos.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.aiakos.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>未选择的路</title>
-    <link href="https://aiakos.cn/archives/8abcc3ae.html"/>
-    <id>https://aiakos.cn/archives/8abcc3ae.html</id>
+    <link href="https://www.aiakos.cn/archives/8abcc3ae.html"/>
+    <id>https://www.aiakos.cn/archives/8abcc3ae.html</id>
     <published>2020-03-05T04:22:11.000Z</published>
     <updated>2020-03-06T05:35:28.273Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="短文学" scheme="https://aiakos.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.aiakos.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
     
-      <category term="短文学" scheme="https://aiakos.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.aiakos.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>ElasticSearch 启动报错之 JDK 版本过低</title>
-    <link href="https://aiakos.cn/archives/b2845630.html"/>
-    <id>https://aiakos.cn/archives/b2845630.html</id>
+    <link href="https://www.aiakos.cn/archives/b2845630.html"/>
+    <id>https://www.aiakos.cn/archives/b2845630.html</id>
     <published>2020-02-24T12:54:08.000Z</published>
     <updated>2020-03-05T11:45:12.581Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
     
-      <category term="elasticsearch" scheme="https://aiakos.cn/categories/elasticsearch/"/>
+      <category term="elasticsearch" scheme="https://www.aiakos.cn/categories/elasticsearch/"/>
     
     
-      <category term="elasticsearch" scheme="https://aiakos.cn/tags/elasticsearch/"/>
+      <category term="elasticsearch" scheme="https://www.aiakos.cn/tags/elasticsearch/"/>
     
-      <category term="faq" scheme="https://aiakos.cn/tags/faq/"/>
+      <category term="faq" scheme="https://www.aiakos.cn/tags/faq/"/>
     
   </entry>
   
   <entry>
     <title>MySQL5.7 配置日志审计</title>
-    <link href="https://aiakos.cn/archives/2656779.html"/>
-    <id>https://aiakos.cn/archives/2656779.html</id>
+    <link href="https://www.aiakos.cn/archives/2656779.html"/>
+    <id>https://www.aiakos.cn/archives/2656779.html</id>
     <published>2020-02-24T12:47:30.152Z</published>
     <updated>2020-03-05T13:40:30.476Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
     
     
-      <category term="日志审计" scheme="https://aiakos.cn/tags/%E6%97%A5%E5%BF%97%E5%AE%A1%E8%AE%A1/"/>
+      <category term="日志审计" scheme="https://www.aiakos.cn/tags/%E6%97%A5%E5%BF%97%E5%AE%A1%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>Java 实现文件 ZIP 压缩并解决中文文件名乱码</title>
-    <link href="https://aiakos.cn/archives/c5372dcb.html"/>
-    <id>https://aiakos.cn/archives/c5372dcb.html</id>
+    <link href="https://www.aiakos.cn/archives/c5372dcb.html"/>
+    <id>https://www.aiakos.cn/archives/c5372dcb.html</id>
     <published>2020-02-24T12:44:20.000Z</published>
-    <updated>2020-03-05T13:45:43.649Z</updated>
+    <updated>2020-03-06T05:48:18.621Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、文件压缩的中文乱码问题&quot;&gt;&lt;a href=&quot;#一、文件压缩的中文乱码问题&quot; class=&quot;headerlink&quot; title=&quot;一、文件压缩的中文乱码问题&quot;&gt;&lt;/a&gt;一、文件压缩的中文乱码问题&lt;/h2&gt;&lt;h3 id=&quot;1、中文文件名的乱码解决&quot;&gt;&lt;a href=&quot;#1、中文文件名的乱码解决&quot; class=&quot;headerlink&quot; title=&quot;1、中文文件名的乱码解决&quot;&gt;&lt;/a&gt;1、中文文件名的乱码解决&lt;/h3&gt;&lt;p&gt;对于压缩的文件，当文件名称是中文时，若使用 &lt;strong&gt;JDK API 中自带的类（java.util.zip.ZipEntry; java.util.zip.ZipOutputStream;）&lt;/strong&gt;进行压缩，压缩完成后，可以看到压缩包中的文件名称是乱码(文件的内容无乱码问题)。此时只要用 &lt;strong&gt;ANT 中的 ant.jar 中的类（org.apache.tools.zip.ZipEntry; org.apache.tools.zip.ZipOutputStream;）&lt;/strong&gt;就可以解决此问题。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是用 Java 实现文件 ZIP 压缩以及解决中文文件名乱码问题。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="java" scheme="https://aiakos.cn/categories/java/"/>
+      <category term="java" scheme="https://www.aiakos.cn/categories/java/"/>
     
     
-      <category term="文件压缩" scheme="https://aiakos.cn/tags/%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9/"/>
+      <category term="文件压缩" scheme="https://www.aiakos.cn/tags/%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9/"/>
     
-      <category term="中文乱码" scheme="https://aiakos.cn/tags/%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/"/>
+      <category term="中文乱码" scheme="https://www.aiakos.cn/tags/%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>MySQL 服务启动失败</title>
-    <link href="https://aiakos.cn/archives/23592fef.html"/>
-    <id>https://aiakos.cn/archives/23592fef.html</id>
+    <link href="https://www.aiakos.cn/archives/23592fef.html"/>
+    <id>https://www.aiakos.cn/archives/23592fef.html</id>
     <published>2020-02-24T12:34:41.000Z</published>
     <updated>2020-03-05T11:36:02.681Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;MySQL 服务启动失败：starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;MySQL 服务启动失败：starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
     
     </summary>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
     
-      <category term="faq" scheme="https://aiakos.cn/tags/faq/"/>
+      <category term="faq" scheme="https://www.aiakos.cn/tags/faq/"/>
     
   </entry>
   
   <entry>
     <title>使用 @RequestPart 同时接收表单数据和 MultipartFile 数据</title>
-    <link href="https://aiakos.cn/archives/d901f37d.html"/>
-    <id>https://aiakos.cn/archives/d901f37d.html</id>
+    <link href="https://www.aiakos.cn/archives/d901f37d.html"/>
+    <id>https://www.aiakos.cn/archives/d901f37d.html</id>
     <published>2020-02-24T12:21:55.000Z</published>
     <updated>2020-03-05T14:03:38.383Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="spring" scheme="https://aiakos.cn/categories/spring/"/>
+      <category term="spring" scheme="https://www.aiakos.cn/categories/spring/"/>
     
     
-      <category term="restTemplate" scheme="https://aiakos.cn/tags/restTemplate/"/>
+      <category term="restTemplate" scheme="https://www.aiakos.cn/tags/restTemplate/"/>
     
-      <category term="spring" scheme="https://aiakos.cn/tags/spring/"/>
+      <category term="spring" scheme="https://www.aiakos.cn/tags/spring/"/>
     
   </entry>
   
   <entry>
     <title>Centos6.5 下安装 MySQL5.7.14-RPM 方式</title>
-    <link href="https://aiakos.cn/archives/409fb0bb.html"/>
-    <id>https://aiakos.cn/archives/409fb0bb.html</id>
+    <link href="https://www.aiakos.cn/archives/409fb0bb.html"/>
+    <id>https://www.aiakos.cn/archives/409fb0bb.html</id>
     <published>2020-02-24T11:27:46.000Z</published>
     <updated>2020-03-05T13:39:25.615Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
     
-      <category term="centos" scheme="https://aiakos.cn/tags/centos/"/>
+      <category term="centos" scheme="https://www.aiakos.cn/tags/centos/"/>
     
-      <category term="install" scheme="https://aiakos.cn/tags/install/"/>
+      <category term="install" scheme="https://www.aiakos.cn/tags/install/"/>
     
   </entry>
   
   <entry>
     <title>Centos6.5 下安装 MySQL5.7.11-TAR 方式</title>
-    <link href="https://aiakos.cn/archives/c121720d.html"/>
-    <id>https://aiakos.cn/archives/c121720d.html</id>
+    <link href="https://www.aiakos.cn/archives/c121720d.html"/>
+    <id>https://www.aiakos.cn/archives/c121720d.html</id>
     <published>2020-02-24T06:46:01.000Z</published>
     <updated>2020-03-05T13:40:04.249Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/categories/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
     
     
-      <category term="mysql" scheme="https://aiakos.cn/tags/mysql/"/>
+      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
     
-      <category term="centos" scheme="https://aiakos.cn/tags/centos/"/>
+      <category term="centos" scheme="https://www.aiakos.cn/tags/centos/"/>
     
-      <category term="install" scheme="https://aiakos.cn/tags/install/"/>
+      <category term="install" scheme="https://www.aiakos.cn/tags/install/"/>
     
   </entry>
   
   <entry>
     <title>博客搭建好了</title>
-    <link href="https://aiakos.cn/archives/4a17b156.html"/>
-    <id>https://aiakos.cn/archives/4a17b156.html</id>
+    <link href="https://www.aiakos.cn/archives/4a17b156.html"/>
+    <id>https://www.aiakos.cn/archives/4a17b156.html</id>
     <published>2020-02-15T11:52:04.239Z</published>
     <updated>2020-02-24T13:08:53.121Z</updated>
     
@@ -240,7 +240,7 @@
       
         
         
-          &lt;!-- build time:Fri Mar 06 2020 13:39:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Sat Mar 07 2020 14:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
