@@ -29,7 +29,7 @@
       
         
         
-          &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
+          &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
         
       
     
@@ -52,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     
@@ -69,11 +69,11 @@
     <link href="https://www.aiakos.cn/archives/b2845630.html"/>
     <id>https://www.aiakos.cn/archives/b2845630.html</id>
     <published>2020-02-24T12:54:08.000Z</published>
-    <updated>2020-03-05T11:45:12.581Z</updated>
+    <updated>2020-03-07T14:19:55.944Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -96,7 +96,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
     
     </summary>
     
@@ -117,7 +117,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是用 Java 实现文件 ZIP 压缩以及解决中文文件名乱码问题。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是用 Java 实现文件 ZIP 压缩以及解决中文文件名乱码问题。&lt;/p&gt;
     
     </summary>
     
@@ -136,11 +136,11 @@
     <link href="https://www.aiakos.cn/archives/23592fef.html"/>
     <id>https://www.aiakos.cn/archives/23592fef.html</id>
     <published>2020-02-24T12:34:41.000Z</published>
-    <updated>2020-03-05T11:36:02.681Z</updated>
+    <updated>2020-03-07T14:20:33.372Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;MySQL 服务启动失败：starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;启动 MySQL 服务报 starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
     
     </summary>
     
@@ -163,7 +163,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
     
     </summary>
     
@@ -186,7 +186,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -211,7 +211,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -240,7 +240,7 @@
       
         
         
-          &lt;!-- build time:Sat Mar 07 2020 15:03:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Sat Mar 07 2020 22:20:46 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
