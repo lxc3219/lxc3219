@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.aiakos.cn/"/>
-  <updated>2020-03-09T13:57:22.469Z</updated>
+  <updated>2020-03-16T12:37:46.537Z</updated>
   <id>https://www.aiakos.cn/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>maven上传本地依赖至远程仓库</title>
+    <link href="https://www.aiakos.cn/archives/78861363.html"/>
+    <id>https://www.aiakos.cn/archives/78861363.html</id>
+    <published>2020-03-16T12:36:24.000Z</published>
+    <updated>2020-03-16T12:37:46.537Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven 单继承及依赖杂乱问题</title>
+    <link href="https://www.aiakos.cn/archives/c74431b2.html"/>
+    <id>https://www.aiakos.cn/archives/c74431b2.html</id>
+    <published>2020-03-16T12:33:03.000Z</published>
+    <updated>2020-03-16T12:35:20.760Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;单继承&lt;br&gt;maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。&lt;/li&gt;&lt;li&gt;依赖杂乱&lt;br&gt;parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+    
+  </entry>
   
   <entry>
     <title>全局异常处理实现方案</title>

@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>maven上传本地依赖至远程仓库</title>
+    <url>/archives/78861363.html</url>
+    <content><![CDATA[<!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">mvn deploy:deploy-file -DgroupId&#x3D;com.ibm -DartifactId&#x3D;connector -Dversion&#x3D;1.0.0 -Dpackaging&#x3D;jar -Dfile&#x3D;D:\ibm\connector\1.0.0\connector-1.0.0.jar -Durl&#x3D;http:&#x2F;&#x2F;192.168.1.1:8081&#x2F;repository&#x2F;3rdparty&#x2F; -DrepositoryId&#x3D;3rdparty</span><br></pre></td></tr></table></figure><blockquote><p>mvn deploy:deploy-file<br>-DgroupId：依赖的 groupId<br>-DartifactId：依赖的 artifactId<br>-Dversion：依赖的 version<br>-Dpackaging：依赖的格式<br>-Dfile：依赖的本地存储位置<br>-Durl：远程仓库位置<br>-DrepositoryId：远程仓库Id</p></blockquote><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>maven</category>
+      </categories>
+      <tags>
+        <tag>maven</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Maven 单继承及依赖杂乱问题</title>
+    <url>/archives/c74431b2.html</url>
+    <content><![CDATA[<!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --><h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><ol><li>单继承<br>maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。</li><li>依赖杂乱<br>parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。</li></ol><a id="more"></a><h2 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h2><p><strong>要求 maven2.9 以上版本</strong></p><ol><li>根据单一职责原则，将 dependency 分类，每一类建立单独的 pom 文件</li><li>在需要使用到这些依赖的子 model 中，使用 dependencyManagement 管理依赖，并 import scope 依赖</li></ol><blockquote><p>注意：<code>&lt;scope&gt;import&lt;/scope&gt;</code> 只能用在 dependencyManagement 里面，且仅用于 <code>&lt;type&gt;pom&lt;/type&gt;</code> 的 dependency</p></blockquote><figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependencyManagement</span>&gt;</span>    </span><br><span class="line">    <span class="tag">&lt;<span class="name">dependencies</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-dependencies<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.1.5.RELEASE<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">type</span>&gt;</span>pom<span class="tag">&lt;/<span class="name">type</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">scope</span>&gt;</span>import<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">dependencies</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependencyManagement</span>&gt;</span></span><br></pre></td></tr></table></figure><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul><li><a href="https://www.cnblogs.com/huahua035/p/7680607.html" target="_blank" rel="noopener external nofollow noreferrer">https://www.cnblogs.com/huahua035/p/7680607.html</a></li></ul><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>maven</category>
+      </categories>
+      <tags>
+        <tag>maven</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>全局异常处理实现方案</title>
     <url>/archives/d830ded1.html</url>
     <content><![CDATA[<!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --><!-- rebuild by neat -->]]></content>
