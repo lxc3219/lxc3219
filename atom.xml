@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.aiakos.cn/"/>
-  <updated>2020-03-16T12:37:46.537Z</updated>
+  <updated>2020-03-16T14:00:52.921Z</updated>
   <id>https://www.aiakos.cn/</id>
   
   <author>
@@ -17,11 +17,99 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>maven上传本地依赖至远程仓库</title>
+    <title>MySQL 驱动</title>
+    <link href="https://www.aiakos.cn/archives/89094d45.html"/>
+    <id>https://www.aiakos.cn/archives/89094d45.html</id>
+    <published>2020-03-16T13:48:21.000Z</published>
+    <updated>2020-03-16T14:00:52.921Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 22:01:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;两种驱动&quot;&gt;&lt;a href=&quot;#两种驱动&quot; class=&quot;headerlink&quot; title=&quot;两种驱动&quot;&gt;&lt;/a&gt;两种驱动&lt;/h2&gt;&lt;p&gt;MySQL 驱动的类型跟驱动的版本有关，其中 com.mysql.jdbc.Driver 是 mysql-connector-java 5 中的，com.mysql.cj.jdbc.Driver 是 mysql-connector-java 6.x 以及后续版本支持的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
+    
+    
+      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
+    
+      <category term="驱动" scheme="https://www.aiakos.cn/tags/%E9%A9%B1%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven 加载本地依赖并打包</title>
+    <link href="https://www.aiakos.cn/archives/758bf931.html"/>
+    <id>https://www.aiakos.cn/archives/758bf931.html</id>
+    <published>2020-03-16T13:17:46.000Z</published>
+    <updated>2020-03-16T13:26:39.778Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;本文描述的是 spring boot 项目如何加载本地依赖并且打包的过程。&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+    
+      <category term="springboot" scheme="https://www.aiakos.cn/tags/springboot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven 切换镜像源</title>
+    <link href="https://www.aiakos.cn/archives/82d4c19.html"/>
+    <id>https://www.aiakos.cn/archives/82d4c19.html</id>
+    <published>2020-03-16T13:11:30.000Z</published>
+    <updated>2020-03-16T13:15:24.240Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;默认情况下，Maven 是去国外的中央仓库下载所需的依赖，在没有 VPN 的协助下，访问的速度很慢。故要将镜像源切换为国内的镜像源，以提高访问速度。&lt;br&gt;此处推荐使用&lt;strong&gt;阿里的镜像源&lt;/strong&gt;（&lt;a href=&quot;http://maven.aliyun.com/nexus/content/groups/public）&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;http://maven.aliyun.com/nexus/content/groups/public）&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven 依赖冲突</title>
+    <link href="https://www.aiakos.cn/archives/9f7de2dd.html"/>
+    <id>https://www.aiakos.cn/archives/9f7de2dd.html</id>
+    <published>2020-03-16T12:46:11.000Z</published>
+    <updated>2020-03-16T12:47:27.417Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;为什么会冲突？&quot;&gt;&lt;a href=&quot;#为什么会冲突？&quot; class=&quot;headerlink&quot; title=&quot;为什么会冲突？&quot;&gt;&lt;/a&gt;为什么会冲突？&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;每个 Java 项目都是一系列 Java 程序的集合，或多或少会引用一些第三方依赖。&lt;/li&gt;&lt;li&gt;在同一个类加载器中，相同全限定类名的 Class 只会被加载一次。&lt;/li&gt;&lt;li&gt;加载到 JVM 中的这个类未必就是我们需要的版本（需要高版本却选择了低版本、依赖不向下兼容）&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+    
+    
+      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven 上传本地依赖至远程仓库</title>
     <link href="https://www.aiakos.cn/archives/78861363.html"/>
     <id>https://www.aiakos.cn/archives/78861363.html</id>
     <published>2020-03-16T12:36:24.000Z</published>
-    <updated>2020-03-16T12:37:46.537Z</updated>
+    <updated>2020-03-16T12:39:39.731Z</updated>
     
     <summary type="html">
     
@@ -29,7 +117,7 @@
       
         
         
-          &lt;!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+          &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
         
       
     
@@ -48,11 +136,11 @@
     <link href="https://www.aiakos.cn/archives/c74431b2.html"/>
     <id>https://www.aiakos.cn/archives/c74431b2.html</id>
     <published>2020-03-16T12:33:03.000Z</published>
-    <updated>2020-03-16T12:35:20.760Z</updated>
+    <updated>2020-03-16T12:37:54.156Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Mar 16 2020 20:37:54 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;单继承&lt;br&gt;maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。&lt;/li&gt;&lt;li&gt;依赖杂乱&lt;br&gt;parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。&lt;/li&gt;&lt;/ol&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;单继承&lt;br&gt;maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。&lt;/li&gt;&lt;li&gt;依赖杂乱&lt;br&gt;parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
     
@@ -77,7 +165,7 @@
       
         
         
-          &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
@@ -96,7 +184,7 @@
     <link href="https://www.aiakos.cn/archives/e5e17584.html"/>
     <id>https://www.aiakos.cn/archives/e5e17584.html</id>
     <published>2020-03-09T11:09:18.000Z</published>
-    <updated>2020-03-09T13:57:22.466Z</updated>
+    <updated>2020-03-14T06:19:59.898Z</updated>
     
     <summary type="html">
     
@@ -104,7 +192,7 @@
       
         
         
-          &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
@@ -127,7 +215,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;命名规范&quot;&gt;&lt;a href=&quot;#命名规范&quot; class=&quot;headerlink&quot; title=&quot;命名规范&quot;&gt;&lt;/a&gt;命名规范&lt;/h2&gt;&lt;p&gt;Spring 官方 Starter 命名为 &lt;code&gt;spring-boot-starter-{name}&lt;/code&gt;。&lt;br&gt;非官方 Starter 命名应遵循 &lt;code&gt;{name}-spring-boot-starter&lt;/code&gt; 的格式。&lt;/p&gt;&lt;h2 id=&quot;工作原理&quot;&gt;&lt;a href=&quot;#工作原理&quot; class=&quot;headerlink&quot; title=&quot;工作原理&quot;&gt;&lt;/a&gt;工作原理&lt;/h2&gt;&lt;p&gt;Spring Boot 项目在启动时会扫描项目所依赖的 JAR 包，寻找这些 JAR 包的 META-INF 文件夹下的 spring.factories 文件，根据 spring.factories 文件的配置信息加载对应的 AutoConfigure 类，然后根据 @Conditional 系列注解，进行自动配置并将类实例注入到 IOC 容器。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;命名规范&quot;&gt;&lt;a href=&quot;#命名规范&quot; class=&quot;headerlink&quot; title=&quot;命名规范&quot;&gt;&lt;/a&gt;命名规范&lt;/h2&gt;&lt;p&gt;Spring 官方 Starter 命名为 &lt;code&gt;spring-boot-starter-{name}&lt;/code&gt;。&lt;br&gt;非官方 Starter 命名应遵循 &lt;code&gt;{name}-spring-boot-starter&lt;/code&gt; 的格式。&lt;/p&gt;&lt;h2 id=&quot;工作原理&quot;&gt;&lt;a href=&quot;#工作原理&quot; class=&quot;headerlink&quot; title=&quot;工作原理&quot;&gt;&lt;/a&gt;工作原理&lt;/h2&gt;&lt;p&gt;Spring Boot 项目在启动时会扫描项目所依赖的 JAR 包，寻找这些 JAR 包的 META-INF 文件夹下的 spring.factories 文件，根据 spring.factories 文件的配置信息加载对应的 AutoConfigure 类，然后根据 @Conditional 系列注解，进行自动配置并将类实例注入到 IOC 容器。&lt;/p&gt;
     
     </summary>
     
@@ -152,7 +240,7 @@
       
         
         
-          &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
+          &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
         
       
     
@@ -175,7 +263,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;/archives/8abcc3ae/road.png&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     
@@ -196,7 +284,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;一、问题描述&quot;&gt;&lt;a href=&quot;#一、问题描述&quot; class=&quot;headerlink&quot; title=&quot;一、问题描述&quot;&gt;&lt;/a&gt;一、问题描述&lt;/h2&gt;&lt;p&gt;启动 ElasticSearch 时报如下错误：&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;RuntimeException[Java version: 1.7.0_40 suffers from critical bug https:&amp;#x2F;&amp;#x2F;bugs.openjdk.java.net&amp;#x2F;browse&amp;#x2F;JDK-8024830 which can cause data corruption.Please upgrade the JVM, see http:&amp;#x2F;&amp;#x2F;www.elastic.co&amp;#x2F;guide&amp;#x2F;en&amp;#x2F;elasticsearch&amp;#x2F;reference&amp;#x2F;current&amp;#x2F;_installation.html for current recommendations.If you absolutely cannot upgrade, please add -XX:-UseSuperWord to the JVM_OPTS environment variable.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Upgrading is preferred, this workaround will result in degraded performance.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -219,7 +307,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;数据库开启日志审计可以记录用户访问数据库的行为。&lt;/p&gt;
     
     </summary>
     
@@ -240,7 +328,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是用 Java 实现文件 ZIP 压缩以及解决中文文件名乱码问题。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是用 Java 实现文件 ZIP 压缩以及解决中文文件名乱码问题。&lt;/p&gt;
     
     </summary>
     
@@ -263,7 +351,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;启动 MySQL 服务报 starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;启动 MySQL 服务报 starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
     
     </summary>
     
@@ -286,7 +374,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;项目中有使用 RestTemplate 转发表单数据和上传文件，之前都是将表单数据 Json 传到后台进行反序列化，这样一来代码就显得十分不美观，后来发现使用 &lt;strong&gt;@RequestPart&lt;/strong&gt; 注解可直接进行数据绑定，十分优雅地解决了这个问题。&lt;/p&gt;
     
     </summary>
     
@@ -309,7 +397,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.14 在 Centos6.5 下 RPM 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -334,7 +422,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
+      &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文介绍的是 MySQL5.7.11 在 Centos6.5 下 TAR 方式的安装情况。&lt;/p&gt;
     
     </summary>
     
@@ -363,7 +451,7 @@
       
         
         
-          &lt;!-- build time:Wed Mar 11 2020 17:13:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Mar 16 2020 21:52:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;博客搭建好了&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
