@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.aiakos.cn/"/>
-  <updated>2020-03-28T06:48:43.740Z</updated>
+  <updated>2020-03-28T08:34:24.008Z</updated>
   <id>https://www.aiakos.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>桌面图标去除小箭头</title>
+    <link href="https://www.aiakos.cn/archives/1e6fa055.html"/>
+    <id>https://www.aiakos.cn/archives/1e6fa055.html</id>
+    <published>2020-03-28T08:34:13.000Z</published>
+    <updated>2020-03-28T08:34:24.008Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Sat Mar 28 2020 16:36:45 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight bat&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Jsonp 解决 Ajax 跨域问题</title>
@@ -464,29 +487,6 @@
       <category term="文件压缩" scheme="https://www.aiakos.cn/tags/%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9/"/>
     
       <category term="中文乱码" scheme="https://www.aiakos.cn/tags/%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL 服务启动失败</title>
-    <link href="https://www.aiakos.cn/archives/23592fef.html"/>
-    <id>https://www.aiakos.cn/archives/23592fef.html</id>
-    <published>2020-02-24T12:34:41.000Z</published>
-    <updated>2020-03-28T06:48:43.751Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sat Mar 28 2020 14:52:31 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;启动 MySQL 服务报 starting MySQL….the server quit without updating PID file [failed]sqldata/MySQL.pid&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="faq" scheme="https://www.aiakos.cn/categories/faq/"/>
-    
-    
-      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
-    
-      <category term="faq" scheme="https://www.aiakos.cn/tags/faq/"/>
     
   </entry>
   
