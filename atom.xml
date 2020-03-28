@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.aiakos.cn/"/>
-  <updated>2020-03-28T06:48:43.740Z</updated>
+  <updated>2020-03-28T09:41:25.740Z</updated>
   <id>https://www.aiakos.cn/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://www.aiakos.cn/archives/bc00aec7.html"/>
     <id>https://www.aiakos.cn/archives/bc00aec7.html</id>
     <published>2020-03-27T15:40:15.000Z</published>
-    <updated>2020-03-28T06:48:43.740Z</updated>
+    <updated>2020-03-28T09:41:25.740Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 28 2020 16:40:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;跨域&quot;&gt;&lt;a href=&quot;#跨域&quot; class=&quot;headerlink&quot; title=&quot;跨域&quot;&gt;&lt;/a&gt;跨域&lt;/h2&gt;&lt;h3 id=&quot;同源策略&quot;&gt;&lt;a href=&quot;#同源策略&quot; class=&quot;headerlink&quot; title=&quot;同源策略&quot;&gt;&lt;/a&gt;同源策略&lt;/h3&gt;&lt;p&gt;同源策略是一种约定，它是浏览器最核心也最基本的安全功能，如果缺少了同源策略，浏览器很容易受到 XSS、CSFR 等攻击。同源策略会阻止一个域的 javascript 脚本和另外一个域的内容进行交互。&lt;strong&gt;所谓同源是指”协议+域名+端口”三者相同。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;什么是跨域&quot;&gt;&lt;a href=&quot;#什么是跨域&quot; class=&quot;headerlink&quot; title=&quot;什么是跨域&quot;&gt;&lt;/a&gt;什么是跨域&lt;/h3&gt;&lt;p&gt;当一个请求 url 的协议、域名、端口三者之间任意一个与当前页面 url 不同即为跨域。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 28 2020 19:33:11 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;跨域&quot;&gt;&lt;a href=&quot;#跨域&quot; class=&quot;headerlink&quot; title=&quot;跨域&quot;&gt;&lt;/a&gt;跨域&lt;/h2&gt;&lt;h3 id=&quot;同源策略&quot;&gt;&lt;a href=&quot;#同源策略&quot; class=&quot;headerlink&quot; title=&quot;同源策略&quot;&gt;&lt;/a&gt;同源策略&lt;/h3&gt;&lt;p&gt;同源策略是一种约定，它是浏览器最核心也最基本的安全功能，如果缺少了同源策略，浏览器很容易受到 XSS、CSFR 等攻击。同源策略会阻止一个域的 javascript 脚本和另外一个域的内容进行交互。&lt;strong&gt;所谓同源是指”协议+域名+端口”三者相同。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;什么是跨域&quot;&gt;&lt;a href=&quot;#什么是跨域&quot; class=&quot;headerlink&quot; title=&quot;什么是跨域&quot;&gt;&lt;/a&gt;什么是跨域&lt;/h3&gt;&lt;p&gt;当一个请求 url 的协议、域名、端口三者之间任意一个与当前页面 url 不同即为跨域。&lt;/p&gt;
     
     </summary>
     
@@ -92,7 +92,7 @@
     <link href="https://www.aiakos.cn/archives/9d80e908.html"/>
     <id>https://www.aiakos.cn/archives/9d80e908.html</id>
     <published>2020-03-18T10:19:38.000Z</published>
-    <updated>2020-03-28T06:43:38.717Z</updated>
+    <updated>2020-03-28T11:32:29.986Z</updated>
     
     <summary type="html">
     
@@ -100,7 +100,7 @@
       
         
         
-          &lt;!-- build time:Sat Mar 28 2020 16:40:18 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
+          &lt;!-- build time:Sat Mar 28 2020 19:33:11 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
         
       
     
