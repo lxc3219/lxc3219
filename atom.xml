@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.aiakos.cn/"/>
-  <updated>2020-03-29T08:54:53.706Z</updated>
+  <updated>2020-03-29T12:43:28.741Z</updated>
   <id>https://www.aiakos.cn/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://www.aiakos.cn/archives/70c5b892.html"/>
     <id>https://www.aiakos.cn/archives/70c5b892.html</id>
     <published>2020-03-29T04:04:46.000Z</published>
-    <updated>2020-03-29T08:54:53.706Z</updated>
+    <updated>2020-03-29T12:43:28.741Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 29 2020 16:57:06 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;类加载器&quot;&gt;&lt;a href=&quot;#类加载器&quot; class=&quot;headerlink&quot; title=&quot;类加载器&quot;&gt;&lt;/a&gt;类加载器&lt;/h2&gt;&lt;p&gt;Java 类加载器是 Java 运行时环境的一部分，负责动态加载描述 Java 类的&lt;strong&gt;二进制字节流&lt;/strong&gt;到 Java 虚拟机的内存空间中。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 29 2020 20:43:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;类加载器&quot;&gt;&lt;a href=&quot;#类加载器&quot; class=&quot;headerlink&quot; title=&quot;类加载器&quot;&gt;&lt;/a&gt;类加载器&lt;/h2&gt;&lt;p&gt;Java 类加载器是 Java 运行时环境的一部分，负责动态加载描述 Java 类的&lt;strong&gt;二进制字节流&lt;/strong&gt;到 Java 虚拟机的内存空间中。&lt;/p&gt;
     
     </summary>
     
