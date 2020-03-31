@@ -355,11 +355,11 @@
     <link href="https://www.aiakos.cn/archives/e5e17584.html"/>
     <id>https://www.aiakos.cn/archives/e5e17584.html</id>
     <published>2020-03-09T11:09:18.000Z</published>
-    <updated>2020-03-31T05:33:21.853Z</updated>
+    <updated>2020-03-31T05:34:26.400Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Mar 31 2020 13:33:51 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当我们提供数据接口给前端时，一般需要告知前端该接口的调用情况。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;如果调用成功，需要提供&lt;strong&gt;成功码&lt;/strong&gt;和&lt;strong&gt;数据&lt;/strong&gt;。&lt;/li&gt;&lt;li&gt;如果调用失败，需要提供失败原因，大致包括&lt;strong&gt;错误码&lt;/strong&gt;和&lt;strong&gt;失败具体原因&lt;/strong&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;所以一个返回体至少应该包括 &lt;code&gt;code&lt;/code&gt;、&lt;code&gt;message&lt;/code&gt;、&lt;code&gt;data&lt;/code&gt; 3 个字段。&lt;/p&gt;&lt;p&gt;本文使用的返回体在这 3 个基础上增加了 &lt;code&gt;success&lt;/code&gt;、&lt;code&gt;status&lt;/code&gt;、&lt;code&gt;timestamp&lt;/code&gt;，实际使用请根据团队规范的来。&lt;/p&gt;
+      &lt;!-- build time:Tue Mar 31 2020 13:34:34 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当我们提供数据接口给前端时，一般需要告知前端该接口的调用情况。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;如果调用成功，需要提供&lt;strong&gt;成功码&lt;/strong&gt;和&lt;strong&gt;数据&lt;/strong&gt;。&lt;/li&gt;&lt;li&gt;如果调用失败，需要提供失败原因，大致包括&lt;strong&gt;错误码&lt;/strong&gt;和&lt;strong&gt;失败具体原因&lt;/strong&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;所以一个返回体至少应该包括 &lt;code&gt;code&lt;/code&gt;、&lt;code&gt;message&lt;/code&gt;、&lt;code&gt;data&lt;/code&gt; 3 个字段。&lt;/p&gt;&lt;p&gt;本文使用的返回体在这 3 个基础上增加了 &lt;code&gt;success&lt;/code&gt;、&lt;code&gt;status&lt;/code&gt;、&lt;code&gt;timestamp&lt;/code&gt;，实际使用请根据团队规范的来。&lt;/p&gt;
     
     </summary>
     
