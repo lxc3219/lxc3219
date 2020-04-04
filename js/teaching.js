@@ -8,13 +8,12 @@ teaching = {
       });
   },
   render: function(data) {
-      var title, picture, url, desc, comment, li = "";
+      var title, picture, url, desc, li = "";
       for (var i = 0; i < data.length; i++) {
           title = data[i].title;
           picture = data[i].picture;
           url = data[i].url;
           desc = data[i].desc;
-          comment = data[i].comment;
           li += '<div class="teaching-resource-item">'
                 + '<div class="teaching-resource-picture">'
                     + '<img src="https://www.aiakos.cn/images/book.png" referrerpolicy="no-referrer">'
@@ -24,7 +23,6 @@ teaching = {
                         + '<a target="_blank" href="' + url + '" rel="external nofollow noreferrer">' + title + '</a>'
                     + '</div>'
                     + '<div class="teaching-resource-meta">' + desc + '</div>'
-                    + '<div class="teaching-resource-meta">' + comment + '</div>'
                 + '</div>'
             + '</div>';
       }
