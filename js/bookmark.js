@@ -24,9 +24,9 @@ window.addEventListener('DOMContentLoaded', () => {
   // Register everything
   var init = function(trigger) {
     // Create a link element
-    var link = document.querySelector('.book-mark-link');
+    var link = document.querySelector('.learning-mark-link');
     // Scroll event
-    window.addEventListener('scroll', () => link.classList.toggle('book-mark-link-fixed', window.scrollY === 0));
+    window.addEventListener('scroll', () => link.classList.toggle('learning-mark-link-fixed', window.scrollY === 0));
     // Register beforeunload event when the trigger is auto
     if (trigger === 'auto') {
       // Register beforeunload event
