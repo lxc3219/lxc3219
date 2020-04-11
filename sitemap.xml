@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.aiakos.cn/principle/index.html</loc>
+    <loc>https://www.aiakos.cn/tool/index.html</loc>
     
-    <lastmod>2020-04-04T17:29:35.555Z</lastmod>
+    <lastmod>2020-04-11T13:54:57.320Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.aiakos.cn/archives/8dae958a.html</loc>
+    
+    <lastmod>2020-04-11T13:43:23.698Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.aiakos.cn/archives/cff83836.html</loc>
+    
+    <lastmod>2020-04-05T05:52:02.159Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.aiakos.cn/about/index.html</loc>
     
-    <lastmod>2020-04-04T17:26:12.360Z</lastmod>
+    <lastmod>2020-04-04T17:41:29.451Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.aiakos.cn/principle/index.html</loc>
+    
+    <lastmod>2020-04-04T17:29:35.555Z</lastmod>
     
   </url>
   
@@ -47,13 +68,6 @@
     <loc>https://www.aiakos.cn/links/linklist.json</loc>
     
     <lastmod>2020-04-04T15:04:25.315Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.aiakos.cn/archives/cff83836.html</loc>
-    
-    <lastmod>2020-04-04T14:59:22.545Z</lastmod>
     
   </url>
   
