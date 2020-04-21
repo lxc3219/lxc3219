@@ -1,9 +1,13 @@
 User-agent: *
 Allow: /
 Allow: /archives/
-Allow: /categories/
-Allow: /tags/
 Allow: /about/
+Allow: /categories/
+Allow: /links/
+Allow: /principle/
+Allow: /tags/
+Allow: /teaching/
+Allow: /tool/
 Allow: /top/
 
 Disallow: /js/
