@@ -16,7 +16,7 @@ teaching = {
           desc = data[i].desc;
           li += '<div class="teaching-resource-item">'
                 + '<div class="teaching-resource-picture">'
-                    + '<img src="https://www.aiakos.cn/images/book.png" referrerpolicy="no-referrer">'
+                    + '<img src="https://www.viento.cn/images/book.png" referrerpolicy="no-referrer">'
                 + '</div>'
                 + '<div class="teaching-resource-info">'
                     + '<div class="teaching-resource-title">'

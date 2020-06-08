@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>随风</title>
-  <icon>https://www.aiakos.cn/icon.png</icon>
+  <icon>https://www.viento.cn/icon.png</icon>
   <subtitle>心静则清，心清则明</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.aiakos.cn/"/>
-  <updated>2020-04-21T04:39:49.845Z</updated>
-  <id>https://www.aiakos.cn/</id>
+  <link href="https://www.viento.cn/"/>
+  <updated>2020-04-23T13:37:37.293Z</updated>
+  <id>https://www.viento.cn/</id>
   
   <author>
     <name>随风</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JHipster初探</title>
+    <link href="https://www.viento.cn/archives/52d4296.html"/>
+    <id>https://www.viento.cn/archives/52d4296.html</id>
+    <published>2020-04-23T13:37:37.000Z</published>
+    <updated>2020-04-23T13:37:37.293Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>mysql_高可用方案</title>
-    <link href="https://www.aiakos.cn/archives/3f707000.html"/>
-    <id>https://www.aiakos.cn/archives/3f707000.html</id>
+    <link href="https://www.viento.cn/archives/3f707000.html"/>
+    <id>https://www.viento.cn/archives/3f707000.html</id>
     <published>2020-04-12T12:54:57.000Z</published>
     <updated>2020-04-21T04:39:49.845Z</updated>
     
@@ -29,7 +52,7 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
@@ -41,8 +64,8 @@
   
   <entry>
     <title>mysql_主从复制</title>
-    <link href="https://www.aiakos.cn/archives/f96cefa1.html"/>
-    <id>https://www.aiakos.cn/archives/f96cefa1.html</id>
+    <link href="https://www.viento.cn/archives/f96cefa1.html"/>
+    <id>https://www.viento.cn/archives/f96cefa1.html</id>
     <published>2020-04-12T12:54:33.000Z</published>
     <updated>2020-04-21T04:39:49.841Z</updated>
     
@@ -52,7 +75,7 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
@@ -64,8 +87,8 @@
   
   <entry>
     <title>内存模型</title>
-    <link href="https://www.aiakos.cn/archives/8dae958a.html"/>
-    <id>https://www.aiakos.cn/archives/8dae958a.html</id>
+    <link href="https://www.viento.cn/archives/8dae958a.html"/>
+    <id>https://www.viento.cn/archives/8dae958a.html</id>
     <published>2020-04-11T13:43:23.000Z</published>
     <updated>2020-04-11T14:05:15.804Z</updated>
     
@@ -75,7 +98,7 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
@@ -87,150 +110,150 @@
   
   <entry>
     <title>使用 RestTemplate 调用 Restful 接口</title>
-    <link href="https://www.aiakos.cn/archives/cff83836.html"/>
-    <id>https://www.aiakos.cn/archives/cff83836.html</id>
+    <link href="https://www.viento.cn/archives/cff83836.html"/>
+    <id>https://www.viento.cn/archives/cff83836.html</id>
     <published>2020-04-01T05:18:07.000Z</published>
     <updated>2020-04-05T05:52:02.159Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Spring MVC 也支持 REST 式的开发&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Spring MVC 也支持 REST 式的开发&lt;/p&gt;
     
     </summary>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/categories/spring-mvc/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/categories/spring-mvc/"/>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/tags/spring-mvc/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/tags/spring-mvc/"/>
     
   </entry>
   
   <entry>
     <title>类加载器</title>
-    <link href="https://www.aiakos.cn/archives/70c5b892.html"/>
-    <id>https://www.aiakos.cn/archives/70c5b892.html</id>
+    <link href="https://www.viento.cn/archives/70c5b892.html"/>
+    <id>https://www.viento.cn/archives/70c5b892.html</id>
     <published>2020-03-29T04:04:46.000Z</published>
     <updated>2020-04-01T14:30:40.258Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;类加载器&quot;&gt;&lt;a href=&quot;#类加载器&quot; class=&quot;headerlink&quot; title=&quot;类加载器&quot;&gt;&lt;/a&gt;类加载器&lt;/h2&gt;&lt;p&gt;Java 类加载器是 Java 运行时环境的一部分，负责动态加载描述 Java 类的&lt;strong&gt;二进制字节流&lt;/strong&gt;到 Java 虚拟机的内存空间中。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;类加载器&quot;&gt;&lt;a href=&quot;#类加载器&quot; class=&quot;headerlink&quot; title=&quot;类加载器&quot;&gt;&lt;/a&gt;类加载器&lt;/h2&gt;&lt;p&gt;Java 类加载器是 Java 运行时环境的一部分，负责动态加载描述 Java 类的&lt;strong&gt;二进制字节流&lt;/strong&gt;到 Java 虚拟机的内存空间中。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="jvm" scheme="https://www.aiakos.cn/categories/jvm/"/>
+      <category term="jvm" scheme="https://www.viento.cn/categories/jvm/"/>
     
     
-      <category term="jvm" scheme="https://www.aiakos.cn/tags/jvm/"/>
+      <category term="jvm" scheme="https://www.viento.cn/tags/jvm/"/>
     
-      <category term="类加载器" scheme="https://www.aiakos.cn/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8/"/>
+      <category term="类加载器" scheme="https://www.viento.cn/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8/"/>
     
-      <category term="双亲委派模型" scheme="https://www.aiakos.cn/tags/%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%A8%A1%E5%9E%8B/"/>
+      <category term="双亲委派模型" scheme="https://www.viento.cn/tags/%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%A8%A1%E5%9E%8B/"/>
     
   </entry>
   
   <entry>
     <title>类的生命周期</title>
-    <link href="https://www.aiakos.cn/archives/cdffca23.html"/>
-    <id>https://www.aiakos.cn/archives/cdffca23.html</id>
+    <link href="https://www.viento.cn/archives/cdffca23.html"/>
+    <id>https://www.viento.cn/archives/cdffca23.html</id>
     <published>2020-03-29T03:46:55.000Z</published>
     <updated>2020-03-30T13:04:02.503Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;生命周期&quot;&gt;&lt;a href=&quot;#生命周期&quot; class=&quot;headerlink&quot; title=&quot;生命周期&quot;&gt;&lt;/a&gt;生命周期&lt;/h2&gt;&lt;p&gt;类从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期包括了：加载、验证、准备、解析、初始化、使用和卸载七个阶段。其中验证、准备和解析三个部分统称为连接。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/archives/cdffca23/%E7%B1%BB%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png&quot; alt&gt;&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;生命周期&quot;&gt;&lt;a href=&quot;#生命周期&quot; class=&quot;headerlink&quot; title=&quot;生命周期&quot;&gt;&lt;/a&gt;生命周期&lt;/h2&gt;&lt;p&gt;类从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期包括了：加载、验证、准备、解析、初始化、使用和卸载七个阶段。其中验证、准备和解析三个部分统称为连接。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/archives/cdffca23/%E7%B1%BB%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="jvm" scheme="https://www.aiakos.cn/categories/jvm/"/>
+      <category term="jvm" scheme="https://www.viento.cn/categories/jvm/"/>
     
     
-      <category term="jvm" scheme="https://www.aiakos.cn/tags/jvm/"/>
+      <category term="jvm" scheme="https://www.viento.cn/tags/jvm/"/>
     
-      <category term="读书笔记" scheme="https://www.aiakos.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="https://www.viento.cn/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="深入理解 Java 虚拟机" scheme="https://www.aiakos.cn/tags/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-Java-%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+      <category term="深入理解 Java 虚拟机" scheme="https://www.viento.cn/tags/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-Java-%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>使用 Jsonp 解决 Ajax 跨域问题</title>
-    <link href="https://www.aiakos.cn/archives/bc00aec7.html"/>
-    <id>https://www.aiakos.cn/archives/bc00aec7.html</id>
+    <link href="https://www.viento.cn/archives/bc00aec7.html"/>
+    <id>https://www.viento.cn/archives/bc00aec7.html</id>
     <published>2020-03-27T15:40:15.000Z</published>
     <updated>2020-03-31T13:20:29.075Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;跨域&quot;&gt;&lt;a href=&quot;#跨域&quot; class=&quot;headerlink&quot; title=&quot;跨域&quot;&gt;&lt;/a&gt;跨域&lt;/h2&gt;&lt;h3 id=&quot;同源策略&quot;&gt;&lt;a href=&quot;#同源策略&quot; class=&quot;headerlink&quot; title=&quot;同源策略&quot;&gt;&lt;/a&gt;同源策略&lt;/h3&gt;&lt;p&gt;同源策略是一种约定，它是浏览器最核心也最基本的安全功能，如果缺少了同源策略，浏览器很容易受到 XSS、CSFR 等攻击。同源策略会阻止一个域的 javascript 脚本和另外一个域的内容进行交互。&lt;strong&gt;所谓同源是指”协议+域名+端口”三者相同。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;什么是跨域&quot;&gt;&lt;a href=&quot;#什么是跨域&quot; class=&quot;headerlink&quot; title=&quot;什么是跨域&quot;&gt;&lt;/a&gt;什么是跨域&lt;/h3&gt;&lt;p&gt;当一个请求 url 的协议、域名、端口三者之间任意一个与当前页面 url 不同即为跨域。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;跨域&quot;&gt;&lt;a href=&quot;#跨域&quot; class=&quot;headerlink&quot; title=&quot;跨域&quot;&gt;&lt;/a&gt;跨域&lt;/h2&gt;&lt;h3 id=&quot;同源策略&quot;&gt;&lt;a href=&quot;#同源策略&quot; class=&quot;headerlink&quot; title=&quot;同源策略&quot;&gt;&lt;/a&gt;同源策略&lt;/h3&gt;&lt;p&gt;同源策略是一种约定，它是浏览器最核心也最基本的安全功能，如果缺少了同源策略，浏览器很容易受到 XSS、CSFR 等攻击。同源策略会阻止一个域的 javascript 脚本和另外一个域的内容进行交互。&lt;strong&gt;所谓同源是指”协议+域名+端口”三者相同。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;什么是跨域&quot;&gt;&lt;a href=&quot;#什么是跨域&quot; class=&quot;headerlink&quot; title=&quot;什么是跨域&quot;&gt;&lt;/a&gt;什么是跨域&lt;/h3&gt;&lt;p&gt;当一个请求 url 的协议、域名、端口三者之间任意一个与当前页面 url 不同即为跨域。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="faq" scheme="https://www.aiakos.cn/categories/faq/"/>
+      <category term="faq" scheme="https://www.viento.cn/categories/faq/"/>
     
     
-      <category term="faq" scheme="https://www.aiakos.cn/tags/faq/"/>
+      <category term="faq" scheme="https://www.viento.cn/tags/faq/"/>
     
-      <category term="jsonp" scheme="https://www.aiakos.cn/tags/jsonp/"/>
+      <category term="jsonp" scheme="https://www.viento.cn/tags/jsonp/"/>
     
-      <category term="跨域" scheme="https://www.aiakos.cn/tags/%E8%B7%A8%E5%9F%9F/"/>
+      <category term="跨域" scheme="https://www.viento.cn/tags/%E8%B7%A8%E5%9F%9F/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码阅读环境准备</title>
-    <link href="https://www.aiakos.cn/archives/b22ae826.html"/>
-    <id>https://www.aiakos.cn/archives/b22ae826.html</id>
+    <link href="https://www.viento.cn/archives/b22ae826.html"/>
+    <id>https://www.viento.cn/archives/b22ae826.html</id>
     <published>2020-03-25T16:43:44.000Z</published>
     <updated>2020-03-28T13:07:56.652Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;作者：d3f59bfc7013&lt;br&gt;链接：&lt;a href=&quot;https://www.jianshu.com/p/e739afb8fe31&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;https://www.jianshu.com/p/e739afb8fe31&lt;/a&gt;&lt;br&gt;来源：简书&lt;br&gt;著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;阅读源码是提升自己代码能力的一个非常重要的手段，但是源码阅读有时候也非常麻烦，一定要找到入口点，然后动态地去看代码，一步步调试然后画图做笔记记录，才能在一团乱中清理出一个道路来。这篇文章介绍了我在阅读 MyBatis 源码的准备过程。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;作者：d3f59bfc7013&lt;br&gt;链接：&lt;a href=&quot;https://www.jianshu.com/p/e739afb8fe31&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;https://www.jianshu.com/p/e739afb8fe31&lt;/a&gt;&lt;br&gt;来源：简书&lt;br&gt;著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;阅读源码是提升自己代码能力的一个非常重要的手段，但是源码阅读有时候也非常麻烦，一定要找到入口点，然后动态地去看代码，一步步调试然后画图做笔记记录，才能在一团乱中清理出一个道路来。这篇文章介绍了我在阅读 MyBatis 源码的准备过程。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="源码阅读" scheme="https://www.aiakos.cn/categories/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/"/>
+      <category term="源码阅读" scheme="https://www.viento.cn/categories/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="源码阅读" scheme="https://www.aiakos.cn/tags/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/"/>
+      <category term="源码阅读" scheme="https://www.viento.cn/tags/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/"/>
     
-      <category term="mybatis" scheme="https://www.aiakos.cn/tags/mybatis/"/>
+      <category term="mybatis" scheme="https://www.viento.cn/tags/mybatis/"/>
     
   </entry>
   
   <entry>
     <title>代理模式</title>
-    <link href="https://www.aiakos.cn/archives/7b510e10.html"/>
-    <id>https://www.aiakos.cn/archives/7b510e10.html</id>
+    <link href="https://www.viento.cn/archives/7b510e10.html"/>
+    <id>https://www.viento.cn/archives/7b510e10.html</id>
     <published>2020-03-20T03:14:20.000Z</published>
     <updated>2020-03-28T06:45:47.029Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;代理概念&quot;&gt;&lt;a href=&quot;#代理概念&quot; class=&quot;headerlink&quot; title=&quot;代理概念&quot;&gt;&lt;/a&gt;代理概念&lt;/h2&gt;&lt;p&gt;为某个对象提供一个代理，并由代理对象控制对这个对象的访问。代理对象在客户端和目标对象之间起到中介的作用，既保护了目标对象，同时也在一定程度上减少了系统的耦合度。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;代理概念&quot;&gt;&lt;a href=&quot;#代理概念&quot; class=&quot;headerlink&quot; title=&quot;代理概念&quot;&gt;&lt;/a&gt;代理概念&lt;/h2&gt;&lt;p&gt;为某个对象提供一个代理，并由代理对象控制对这个对象的访问。代理对象在客户端和目标对象之间起到中介的作用，既保护了目标对象，同时也在一定程度上减少了系统的耦合度。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="设计模式" scheme="https://www.aiakos.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://www.viento.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="设计模式" scheme="https://www.aiakos.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://www.viento.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
-      <category term="结构型" scheme="https://www.aiakos.cn/tags/%E7%BB%93%E6%9E%84%E5%9E%8B/"/>
+      <category term="结构型" scheme="https://www.viento.cn/tags/%E7%BB%93%E6%9E%84%E5%9E%8B/"/>
     
   </entry>
   
   <entry>
     <title>八个字</title>
-    <link href="https://www.aiakos.cn/archives/9d80e908.html"/>
-    <id>https://www.aiakos.cn/archives/9d80e908.html</id>
+    <link href="https://www.viento.cn/archives/9d80e908.html"/>
+    <id>https://www.viento.cn/archives/9d80e908.html</id>
     <published>2020-03-18T10:19:38.000Z</published>
     <updated>2020-03-28T11:32:29.986Z</updated>
     
@@ -240,135 +263,135 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote
         
       
     
     </summary>
     
     
-      <category term="短文学" scheme="https://www.aiakos.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.viento.cn/categories/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
     
-      <category term="短文学" scheme="https://www.aiakos.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
+      <category term="短文学" scheme="https://www.viento.cn/tags/%E7%9F%AD%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>IntelliJ IDEA 集成和移除自定义的 Maven 骨架</title>
-    <link href="https://www.aiakos.cn/archives/25be9ab7.html"/>
-    <id>https://www.aiakos.cn/archives/25be9ab7.html</id>
+    <link href="https://www.viento.cn/archives/25be9ab7.html"/>
+    <id>https://www.viento.cn/archives/25be9ab7.html</id>
     <published>2020-03-17T07:22:43.000Z</published>
     <updated>2020-03-28T06:50:05.607Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文描述的是 IntelliJ IDEA 集成和移除自定义的 Maven 骨架的操作流程。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;注意：本文描述是在 Windows 环境下操作的，Linux、MAC 可能有所出入。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文描述的是 IntelliJ IDEA 集成和移除自定义的 Maven 骨架的操作流程。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;注意：本文描述是在 Windows 环境下操作的，Linux、MAC 可能有所出入。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
-      <category term="intellij idea" scheme="https://www.aiakos.cn/tags/intellij-idea/"/>
+      <category term="intellij idea" scheme="https://www.viento.cn/tags/intellij-idea/"/>
     
   </entry>
   
   <entry>
     <title>MySQL 驱动 com.mysql.cj.jdbc.Driver</title>
-    <link href="https://www.aiakos.cn/archives/89094d45.html"/>
-    <id>https://www.aiakos.cn/archives/89094d45.html</id>
+    <link href="https://www.viento.cn/archives/89094d45.html"/>
+    <id>https://www.viento.cn/archives/89094d45.html</id>
     <published>2020-03-16T13:48:21.000Z</published>
     <updated>2020-03-28T06:43:57.365Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;两种驱动&quot;&gt;&lt;a href=&quot;#两种驱动&quot; class=&quot;headerlink&quot; title=&quot;两种驱动&quot;&gt;&lt;/a&gt;两种驱动&lt;/h2&gt;&lt;p&gt;MySQL 驱动的类型跟驱动的版本有关，其中 &lt;code&gt;com.mysql.jdbc.Driver&lt;/code&gt; 是 &lt;code&gt;mysql-connector-java 5&lt;/code&gt; 中的，&lt;code&gt;com.mysql.cj.jdbc.Driver&lt;/code&gt; 是 &lt;code&gt;mysql-connector-java 6.x&lt;/code&gt; 以及后续版本支持的。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;两种驱动&quot;&gt;&lt;a href=&quot;#两种驱动&quot; class=&quot;headerlink&quot; title=&quot;两种驱动&quot;&gt;&lt;/a&gt;两种驱动&lt;/h2&gt;&lt;p&gt;MySQL 驱动的类型跟驱动的版本有关，其中 &lt;code&gt;com.mysql.jdbc.Driver&lt;/code&gt; 是 &lt;code&gt;mysql-connector-java 5&lt;/code&gt; 中的，&lt;code&gt;com.mysql.cj.jdbc.Driver&lt;/code&gt; 是 &lt;code&gt;mysql-connector-java 6.x&lt;/code&gt; 以及后续版本支持的。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="mysql" scheme="https://www.aiakos.cn/categories/mysql/"/>
+      <category term="mysql" scheme="https://www.viento.cn/categories/mysql/"/>
     
     
-      <category term="mysql" scheme="https://www.aiakos.cn/tags/mysql/"/>
+      <category term="mysql" scheme="https://www.viento.cn/tags/mysql/"/>
     
-      <category term="驱动" scheme="https://www.aiakos.cn/tags/%E9%A9%B1%E5%8A%A8/"/>
+      <category term="驱动" scheme="https://www.viento.cn/tags/%E9%A9%B1%E5%8A%A8/"/>
     
   </entry>
   
   <entry>
     <title>Maven 加载本地依赖并打包</title>
-    <link href="https://www.aiakos.cn/archives/758bf931.html"/>
-    <id>https://www.aiakos.cn/archives/758bf931.html</id>
+    <link href="https://www.viento.cn/archives/758bf931.html"/>
+    <id>https://www.viento.cn/archives/758bf931.html</id>
     <published>2020-03-16T13:17:46.000Z</published>
     <updated>2020-03-28T06:45:21.850Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文描述的是 spring boot 项目如何加载本地依赖并且打包的过程。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文描述的是 spring boot 项目如何加载本地依赖并且打包的过程。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
-      <category term="spring boot" scheme="https://www.aiakos.cn/tags/spring-boot/"/>
+      <category term="spring boot" scheme="https://www.viento.cn/tags/spring-boot/"/>
     
   </entry>
   
   <entry>
     <title>Maven 切换镜像源</title>
-    <link href="https://www.aiakos.cn/archives/82d4c19.html"/>
-    <id>https://www.aiakos.cn/archives/82d4c19.html</id>
+    <link href="https://www.viento.cn/archives/82d4c19.html"/>
+    <id>https://www.viento.cn/archives/82d4c19.html</id>
     <published>2020-03-16T13:11:30.000Z</published>
     <updated>2020-03-28T06:48:43.737Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;默认情况下，Maven 是去国外的中央仓库下载所需的依赖，在没有 VPN 的协助下，访问的速度很慢。故要将镜像源切换为国内的镜像源，以提高访问速度。&lt;br&gt;此处推荐使用&lt;strong&gt;阿里的镜像源&lt;/strong&gt;（&lt;a href=&quot;http://maven.aliyun.com/nexus/content/groups/public）&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;http://maven.aliyun.com/nexus/content/groups/public）&lt;/a&gt;&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;默认情况下，Maven 是去国外的中央仓库下载所需的依赖，在没有 VPN 的协助下，访问的速度很慢。故要将镜像源切换为国内的镜像源，以提高访问速度。&lt;br&gt;此处推荐使用&lt;strong&gt;阿里的镜像源&lt;/strong&gt;（&lt;a href=&quot;http://maven.aliyun.com/nexus/content/groups/public）&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;http://maven.aliyun.com/nexus/content/groups/public）&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>Maven 依赖冲突</title>
-    <link href="https://www.aiakos.cn/archives/9f7de2dd.html"/>
-    <id>https://www.aiakos.cn/archives/9f7de2dd.html</id>
+    <link href="https://www.viento.cn/archives/9f7de2dd.html"/>
+    <id>https://www.viento.cn/archives/9f7de2dd.html</id>
     <published>2020-03-16T12:46:11.000Z</published>
     <updated>2020-03-30T13:30:39.901Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;为什么会冲突？&quot;&gt;&lt;a href=&quot;#为什么会冲突？&quot; class=&quot;headerlink&quot; title=&quot;为什么会冲突？&quot;&gt;&lt;/a&gt;为什么会冲突？&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;每个 Java 项目都是一系列 Java 程序的集合，或多或少会引用一些第三方依赖。&lt;/li&gt;&lt;li&gt;在同一个类加载器中，相同全限定类名的 Class 只会被加载一次。&lt;/li&gt;&lt;li&gt;加载到 JVM 中的这个类未必就是我们需要的版本（需要高版本却选择了低版本、依赖不向下兼容）&lt;/li&gt;&lt;/ol&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;为什么会冲突？&quot;&gt;&lt;a href=&quot;#为什么会冲突？&quot; class=&quot;headerlink&quot; title=&quot;为什么会冲突？&quot;&gt;&lt;/a&gt;为什么会冲突？&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;每个 Java 项目都是一系列 Java 程序的集合，或多或少会引用一些第三方依赖。&lt;/li&gt;&lt;li&gt;在同一个类加载器中，相同全限定类名的 Class 只会被加载一次。&lt;/li&gt;&lt;li&gt;加载到 JVM 中的这个类未必就是我们需要的版本（需要高版本却选择了低版本、依赖不向下兼容）&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>Maven 上传本地依赖至远程仓库</title>
-    <link href="https://www.aiakos.cn/archives/78861363.html"/>
-    <id>https://www.aiakos.cn/archives/78861363.html</id>
+    <link href="https://www.viento.cn/archives/78861363.html"/>
+    <id>https://www.viento.cn/archives/78861363.html</id>
     <published>2020-03-16T12:36:24.000Z</published>
     <updated>2020-03-28T06:48:43.745Z</updated>
     
@@ -378,45 +401,45 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
         
       
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>Maven 单继承及依赖杂乱问题</title>
-    <link href="https://www.aiakos.cn/archives/c74431b2.html"/>
-    <id>https://www.aiakos.cn/archives/c74431b2.html</id>
+    <link href="https://www.viento.cn/archives/c74431b2.html"/>
+    <id>https://www.viento.cn/archives/c74431b2.html</id>
     <published>2020-03-16T12:33:03.000Z</published>
     <updated>2020-03-28T06:48:43.742Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;单继承&lt;br&gt;maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。&lt;/li&gt;&lt;li&gt;依赖杂乱&lt;br&gt;parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。&lt;/li&gt;&lt;/ol&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;单继承&lt;br&gt;maven 的继承模式属于单继承，也就是说子 model 中只能出现一个 parent 标签。&lt;/li&gt;&lt;li&gt;依赖杂乱&lt;br&gt;parent 模块中，dependencyManagement 中预定义太多的依赖，造成 pom 文件过长，而且很乱。&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/categories/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/categories/maven/"/>
     
     
-      <category term="maven" scheme="https://www.aiakos.cn/tags/maven/"/>
+      <category term="maven" scheme="https://www.viento.cn/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>全局异常处理实现方案</title>
-    <link href="https://www.aiakos.cn/archives/d830ded1.html"/>
-    <id>https://www.aiakos.cn/archives/d830ded1.html</id>
+    <link href="https://www.viento.cn/archives/d830ded1.html"/>
+    <id>https://www.viento.cn/archives/d830ded1.html</id>
     <published>2020-03-09T11:09:57.000Z</published>
     <updated>2020-03-27T17:09:49.790Z</updated>
     
@@ -426,59 +449,38 @@
       
         
         
-          &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat
         
       
     
     </summary>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/categories/spring-mvc/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/categories/spring-mvc/"/>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/tags/spring-mvc/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/tags/spring-mvc/"/>
     
   </entry>
   
   <entry>
     <title>全局统一返回实现方案</title>
-    <link href="https://www.aiakos.cn/archives/e5e17584.html"/>
-    <id>https://www.aiakos.cn/archives/e5e17584.html</id>
+    <link href="https://www.viento.cn/archives/e5e17584.html"/>
+    <id>https://www.viento.cn/archives/e5e17584.html</id>
     <published>2020-03-09T11:09:18.000Z</published>
-    <updated>2020-04-19T15:52:43.171Z</updated>
+    <updated>2020-06-06T10:36:04.396Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当我们提供数据接口给前端时，一般需要告知前端该接口的调用情况。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;如果调用成功，需要提供&lt;strong&gt;成功码&lt;/strong&gt;和&lt;strong&gt;数据&lt;/strong&gt;。&lt;/li&gt;&lt;li&gt;如果调用失败，需要提供&lt;strong&gt;错误码&lt;/strong&gt;和&lt;strong&gt;失败具体原因&lt;/strong&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;所以一个返回体至少应该包括 &lt;code&gt;code&lt;/code&gt;、&lt;code&gt;message&lt;/code&gt;、&lt;code&gt;data&lt;/code&gt; 3 个字段。&lt;/p&gt;&lt;p&gt;本文使用的返回体在这 3 个基础上增加了 &lt;code&gt;success&lt;/code&gt;、&lt;code&gt;status&lt;/code&gt;、&lt;code&gt;timestamp&lt;/code&gt;，实际使用请根据团队规范的来。&lt;/p&gt;
+      &lt;!-- build time:Mon Jun 08 2020 19:07:26 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当我们提供数据接口给前端时，一般需要告知前端该接口的调用情况。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;如果调用成功，需要提供&lt;strong&gt;成功码&lt;/strong&gt;和&lt;strong&gt;数据&lt;/strong&gt;。&lt;/li&gt;&lt;li&gt;如果调用失败，需要提供&lt;strong&gt;错误码&lt;/strong&gt;和&lt;strong&gt;失败具体原因&lt;/strong&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;所以一个返回体至少应该包括 &lt;code&gt;code&lt;/code&gt;、&lt;code&gt;message&lt;/code&gt;、&lt;code&gt;data&lt;/code&gt; 3 个字段。&lt;/p&gt;&lt;p&gt;本文使用的返回体在这 3 个基础上增加了 &lt;code&gt;success&lt;/code&gt;、&lt;code&gt;status&lt;/code&gt;、&lt;code&gt;timestamp&lt;/code&gt;，实际使用请根据团队规范的来。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/categories/spring-mvc/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/categories/spring-mvc/"/>
     
     
-      <category term="spring mvc" scheme="https://www.aiakos.cn/tags/spring-mvc/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自定义 spring boot 启动器</title>
-    <link href="https://www.aiakos.cn/archives/859d1044.html"/>
-    <id>https://www.aiakos.cn/archives/859d1044.html</id>
-    <published>2020-03-09T10:50:52.000Z</published>
-    <updated>2020-03-28T06:45:53.762Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Thu Apr 23 2020 20:41:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;命名规范&quot;&gt;&lt;a href=&quot;#命名规范&quot; class=&quot;headerlink&quot; title=&quot;命名规范&quot;&gt;&lt;/a&gt;命名规范&lt;/h2&gt;&lt;p&gt;Spring 官方 Starter 命名为 &lt;code&gt;spring-boot-starter-{name}&lt;/code&gt;。&lt;br&gt;非官方 Starter 命名应遵循 &lt;code&gt;{name}-spring-boot-starter&lt;/code&gt; 的格式。&lt;/p&gt;&lt;h2 id=&quot;工作原理&quot;&gt;&lt;a href=&quot;#工作原理&quot; class=&quot;headerlink&quot; title=&quot;工作原理&quot;&gt;&lt;/a&gt;工作原理&lt;/h2&gt;&lt;p&gt;Spring Boot 项目在启动时会扫描项目所依赖的 JAR 包，寻找这些 JAR 包的 META-INF 文件夹下的 spring.factories 文件，根据 spring.factories 文件的配置信息加载对应的 AutoConfigure 类，然后根据 @Conditional 系列注解，进行自动配置并将类实例注入到 IOC 容器。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="spring boot" scheme="https://www.aiakos.cn/categories/spring-boot/"/>
-    
-    
-      <category term="spring boot" scheme="https://www.aiakos.cn/tags/spring-boot/"/>
+      <category term="spring mvc" scheme="https://www.viento.cn/tags/spring-mvc/"/>
     
   </entry>
   
