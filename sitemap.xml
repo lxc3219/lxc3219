@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.viento.cn/about/index.html</loc>
+    
+    <lastmod>2020-07-02T09:54:40.948Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.viento.cn/links/index.html</loc>
     
     <lastmod>2020-06-08T11:03:08.223Z</lastmod>
@@ -54,20 +61,6 @@
     <loc>https://www.viento.cn/archives/cff83836.html</loc>
     
     <lastmod>2020-04-05T05:52:02.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.viento.cn/about/index.html</loc>
-    
-    <lastmod>2020-04-04T17:41:29.451Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.viento.cn/principle/index.html</loc>
-    
-    <lastmod>2020-04-04T17:29:35.555Z</lastmod>
     
   </url>
   
