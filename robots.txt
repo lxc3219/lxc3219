@@ -6,8 +6,6 @@ Allow: /categories/
 Allow: /links/
 Allow: /principle/
 Allow: /tags/
-Allow: /teaching/
-Allow: /tool/
 Allow: /top/
 
 Disallow: /js/
@@ -17,5 +15,5 @@ Disallow: /fonts/
 Disallow: /lib/
 Disallow: /fancybox/
 
-Sitemap: https://www.viento.cn/sitemap.xml
-Sitemap: https://www.viento.cn/baidusitemap.xml
+Sitemap: http://www.viento.cn/sitemap.xml
+Sitemap: http://www.viento.cn/baidusitemap.xml
